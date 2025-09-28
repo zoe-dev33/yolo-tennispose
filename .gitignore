@@ -1,0 +1,12 @@
+# 忽略虛擬環境
+.venv/
+
+# 忽略 YOLO 模型權重
+weights/
+*.pt
+
+# 忽略 Python 編譯快取
+__pycache__/
+
+# Mac 系統檔案
+.DS_Store
