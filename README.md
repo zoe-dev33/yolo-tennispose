@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YOLO Tennis Pose Detection 🎾
 
 本專案使用 **YOLOv8** 模型進行網球選手姿勢偵測。  
@@ -49,3 +50,7 @@ pip install -r requirements.txt
 - Python 3.12
 - torch >= 2.1
 - YOLOv8 >= 8.2
+=======
+# yolo-tennispose
+A YOLO-based pose detection project for tennis player movement analysis.
+>>>>>>> bde3da0809ad94558c3db81fb2ffe64f864e2bf5
