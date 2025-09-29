@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# YOLO Bedminton Pose Detection 🏸
+# YOLO Badminton Pose Detection 🏸
 
 本專案使用 **YOLOv8** 模型進行羽球選手姿勢偵測。  
 可用於分析羽球運動員動作、姿勢分類與訓練輔助。
@@ -51,6 +51,6 @@ pip install -r requirements.txt
 - torch >= 2.1
 - YOLOv8 >= 8.2
 =======
-# yolo-tennispose
-A YOLO-based pose detection project for tennis player movement analysis.
+# yolo-badmintonpose
+A YOLO-based pose detection project for badminton player movement analysis.
 >>>>>>> bde3da0809ad94558c3db81fb2ffe64f864e2bf5
